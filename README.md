@@ -15,7 +15,7 @@ OpenMATB aimed to provide an open-source re-implementation of the multi-attribut
 
 Those aspects are detailed in: Cegarra, J., Valéry, B., Avril, E., Calmettes, C. & Navarro, J. (2020). OpenMATB: An open source implementation of the Multi-Attribute Task Battery. <i>Behavior Research Methods</i> https://doi.org/10.3758/s13428-020-01364-w
 
-Note: Text of this section just minimally edited from the original OpenMATB README, which can be found <li><a href="https://github.com/juliencegarra/OpenMATB">here</a></li>
+Note: Text of this section just minimally edited from the original OpenMATB README, which can be found <a href="https://github.com/juliencegarra/OpenMATB">here</a>.
 
 <h2>OpenMATB Collaborative</h2>
 
