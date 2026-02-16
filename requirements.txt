@@ -1,0 +1,7 @@
+PySide2~=5.15.2.1
+numpy~=1.26.4
+psutil~=5.9.8
+pygame~=2.5.2
+rstr~=3.2.2
+toml~=0.10.2
+twisted~=24.3.0

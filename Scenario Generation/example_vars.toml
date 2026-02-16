@@ -1,0 +1,33 @@
+[[segments]]
+name = "example_instructions_block"
+duration = 0
+[[segments.tasks]]
+name = "instructions"
+file = "example_instructions.txt"
+
+[[segments]]
+name = "example_easy_block"
+duration = "&block_duration"
+[[segments.tasks]]
+name = "sysmon"
+difficulty = "&easy_difficulty"
+[[segments.tasks]]
+name = "resman"
+difficulty = "&easy_difficulty"
+
+[[segments]]
+name = "example_hard_block"
+duration = "&block_duration"
+[[segments.tasks]]
+name = "sysmon"
+difficulty = "&hard_difficulty"
+[[segments.tasks]]
+name = "resman"
+difficulty = "&hard_difficulty"
+
+[[segments]]
+name = "example_survey_block"
+duration = 0
+[[segments.tasks]]
+name = "scales"
+file = "example_survey.txt"

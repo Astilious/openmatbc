@@ -1,0 +1,5 @@
+﻿PySide2
+rstr
+pygame
+psutil
+wave

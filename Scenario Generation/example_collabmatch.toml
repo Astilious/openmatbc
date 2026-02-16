@@ -1,0 +1,12 @@
+[[segments]]
+name = "example_easy_block"
+duration = 600
+[[segments.tasks]]
+name = "collabmatch"
+difficulty = 0.0
+network = "&networking"
+[[segments.tasks]]
+name = "resman"
+difficulty = 0.0
+reset_blocks = 1
+network = "&networking"

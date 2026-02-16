@@ -1,0 +1,16 @@
+*.log
+*.pyc
+*.orig
+*.zip
+__pycache__/
+Data/
+Sounds/output/
+build/
+Logs/
+.Rhistory
+.idea/
+.vscode/
+lib/
+venv/
+*.egg-info/
+openmatbc_venv/

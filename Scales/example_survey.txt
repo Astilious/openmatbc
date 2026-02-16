@@ -1,0 +1,4 @@
+# A simle example survey file.
+
+# Question1;minimumName/maximumName;minimumValue/maximumValue/defaultValue
+example_question;Example Question;Minimum/Maximum;0/50/25
