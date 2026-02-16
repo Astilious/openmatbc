@@ -7,13 +7,15 @@ First presented at a NASA Technical memorandum (Comstock & Arnegard, 1992), the 
 
 <center><img src="https://user-images.githubusercontent.com/10955668/49248376-d6ce3c80-f419-11e8-9416-7e0fe3e11d45.png" width=400></center>
 
-Almost twenty years have passed since the last iteration of the MATB implementation (Comstock & Arnegard, 1992), different requirements for up to date research are no longer satisfied. 
-OpenMATB aims to provide an open-source re-implementation of the multi-attribute task battery. It promotes three aspects: 
+As a great deal of time passed between iterations of the MATB implementation (Comstock & Arnegard, 1992), the makers of OpenMATB looked to address research requirements that were no longer satisfied. 
+OpenMATB aimed to provide an open-source re-implementation of the multi-attribute task battery. It promoted three aspects: 
 (1) tasks customization for full adaptation of the battery,
 (2) software extendability to easily add new features, 
 (3) experiment replicability to provide significant results.
 
 Those aspects are detailed in: Cegarra, J., Valéry, B., Avril, E., Calmettes, C. & Navarro, J. (2020). OpenMATB: An open source implementation of the Multi-Attribute Task Battery. <i>Behavior Research Methods</i> https://doi.org/10.3758/s13428-020-01364-w
+
+Note: Text of this section just minimally edited from the original OpenMATB README, which can be found <li><a href="https://github.com/juliencegarra/OpenMATB">here</a></li>
 
 <h2>OpenMATB Collaborative</h2>
 
